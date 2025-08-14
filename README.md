@@ -4,4 +4,6 @@
 
 ###### TODO: 雨橙 林雨橙 Rain-mikan
 
-![background](background.jpg)
+<p align="center">
+  <img src="background.jpg" alt="background">
+</p>
