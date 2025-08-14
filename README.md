@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+梓橙 林梓橙 梓橙 · 西奈 橙奈
+
 <!--
 **Azusa-mikan/Azusa-mikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
